@@ -1,3 +1,2 @@
 # Playground
-
-A place to play with `git`.
+I love redspice chicken
